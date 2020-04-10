@@ -17,7 +17,7 @@
 <p align="center">
   <a >
     <img src=""
-         alt="Screen Shot">
+         alt="Screenshot">
   </a>
 </p>
 
@@ -35,15 +35,15 @@
 ## Screenshots 📺
 
 <p align="center">
-    <img src="" alt="Screen Shot">
+    <img src="" alt="Screenshot">
 </p>
 
 <p align="center">
-    <img src="" alt="Screen Shot">
+    <img src="" alt="Screenshot">
 </p>
 
 <p align="center">
-    <img src="" alt="Screen Shot">
+    <img src="" alt="Screenshot">
 </p>
 
 ## Code Example/Issues 🔍
